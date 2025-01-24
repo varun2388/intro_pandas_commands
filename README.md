@@ -1,0 +1,1 @@
+this file contains basic commands in pandas for data analysis . in this repo the jupyter notebook is atlking about how to read a datset , how to initailly explore the data using basic pandas functions , klike head , tail function 
